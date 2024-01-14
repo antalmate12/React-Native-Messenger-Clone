@@ -6,9 +6,9 @@ This is a messenger clone built with React Native. It is a work in progress.
 
 
 ## Install NPM packages
-    ```sh
-    npm install
-    ```
+  ```sh
+   npm install
+   ```
 
 ### Run the app
    ```sh
